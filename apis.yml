@@ -23,16 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/styleup.png
 name: Styleup
-description: >-
-  StyleUp was a Y Combinator (Winter 2013) fashion advisory startup that delivered
-  personalized daily outfit recommendations tailored to the user's local weather and
-  individual style preferences, learning from feedback to improve suggestions over time.
-  It operated as a consumer styling service out of the San Francisco Bay Area rather
-  than as an API or developer platform. The company is now defunct and no longer operates:
-  its former domain (thestyleup.com) has been repurposed by an unrelated third party and
-  serves a Turkish sports-streaming site, so there is no live product, developer portal,
-  documentation, SDK, or API surface remaining to enrich. This profile is retained as a
-  historical stub with no active API artifacts.
+description: 'StyleUp was a Y Combinator (Winter 2013) fashion advisory startup that delivered personalized
+  daily outfit recommendations tailored to the user''s local weather and individual style preferences,
+  learning from feedback to improve suggestions over time. It operated as a consumer styling service out
+  of the San Francisco Bay Area rather than as an API or developer platform. The company is now defunct
+  and no longer operates: its former domain (thestyleup.com) has been repurposed by an unrelated third
+  party and serves a Turkish sports-streaming site, so there is no live product, developer portal, documentation,
+  SDK, or API surface remaining to enrich. This profile is retained as a historical stub with no active
+  API artifacts.'
 url: https://raw.githubusercontent.com/api-evangelist/styleup/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -40,14 +38,13 @@ x-backed-by:
 - y-combinator
 x-yc-batch: W13
 x-status: defunct
-x-status-note: >-
-  Former domain thestyleup.com is no longer controlled by the company (now an unrelated
-  Turkish sports-streaming site, HTTP 200); no active company website is wired.
+x-status-note: Former domain thestyleup.com is no longer controlled by the company (now an unrelated Turkish
+  sports-streaming site, HTTP 200); no active company website is wired.
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Fashion
@@ -55,6 +52,7 @@ tags:
 - Recommendations
 - Consumer
 - Y Combinator
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
